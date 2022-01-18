@@ -1,0 +1,1 @@
+{"version":3,"sources":["script.js"],"names":["header","document","querySelector","window","addEventListener","classList","toggle","scrollY"],"mappings":"AAAA,MAAMA,OAASC,SAASC,cAAc,UACtCC,OAAOC,iBAAiB,UAAU,KAChCJ,OAAOK,UAAUC,OAAO,SAAUC,QAAU","file":"script.js"}
